@@ -1,33 +1,19 @@
 # Available Templates
 
-## AGZNKO - Price: 7.500.000 VND
+- [AGZNKO - 7.5M](https://wpriverthemes.com/HTML/agznko)
 
-[https://wpriverthemes.com/HTML/agznko](https://wpriverthemes.com/HTML/agznko)
+- [TOPFLOOR - 7.5M](https://starplatetheme.com/topfloor/)
 
-## TOPFLOOR - Price: 7.000.000 VND
+- [LINOOR 1 - 7.0M](https://linoor-nextjs.vercel.app/index-2)
 
-[https://starplatetheme.com/topfloor/](https://starplatetheme.com/topfloor/)
+- [LINOOR 2 - 7.0M](https://linoor-nextjs.vercel.app/index-dark)
 
-## LINOOR 1 - Price: 7.000.000 VND
+- [FLEMING - 7.0M](https://mehedi.asiandevelopers.com/demo/fleming)
 
-[https://linoor-nextjs.vercel.app/index-2](https://linoor-nextjs.vercel.app/index-2)
+- [AXIMO - 6.5M](https://aximo-react.vercel.app)
 
-## LINOOR 2 - Price: 7.000.000 VND
+- [FINBIZ - 6.5M](https://finbiz-html.netlify.app/finbiz-html/index-five)
 
-[https://linoor-nextjs.vercel.app/index-dark](https://linoor-nextjs.vercel.app/index-dark)
+- [OFICIAL - 6.0M](https://tanshcreative.com/oficial-lp-preview/oficial/index.html)
 
-## AXIMO - Price: 6.500.000 VND
-
-[https://aximo-react.vercel.app](https://aximo-react.vercel.app)
-
-## FINBIZ - Price: 6.500.000 VND
-
-[https://finbiz-html.netlify.app/finbiz-html/index-five](https://finbiz-html.netlify.app/finbiz-html/index-five)
-
-## OFICIAL - Price: 6.000.000 VND
-
-[https://tanshcreative.com/oficial-lp-preview/oficial/index.html](https://tanshcreative.com/oficial-lp-preview/oficial/index.html)
-
-## BLUSSOM - Price: 5.500.000 VND
-
-[https://tanshcreative.com/blussom-lp-preview/index.html](https://tanshcreative.com/blussom-lp-preview/index.html)
+- [BLUSSOM - 5.5M](https://tanshcreative.com/blussom-lp-preview/index.html)
