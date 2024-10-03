@@ -2,11 +2,11 @@
 
 - [AGZNKO - 7.5M](https://wpriverthemes.com/HTML/agznko)
 
-- [TOPFLOOR - 7.5M](https://starplatetheme.com/topfloor/)
+- [LINOOR 1 - 7.5M](https://linoor-nextjs.vercel.app/index-2)
 
-- [LINOOR 1 - 7.0M](https://linoor-nextjs.vercel.app/index-2)
+- [LINOOR 2 - 7.5M](https://linoor-nextjs.vercel.app/index-dark)
 
-- [LINOOR 2 - 7.0M](https://linoor-nextjs.vercel.app/index-dark)
+- [TOPFLOOR - 7.0M](https://starplatetheme.com/topfloor/)
 
 - [FLEMING - 7.0M](https://mehedi.asiandevelopers.com/demo/fleming)
 
