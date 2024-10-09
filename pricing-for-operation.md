@@ -60,7 +60,7 @@ Quy trình từ bắt đầu tới lúc bàn giao như sau:
 
 ### 3. Chi phí hỗ trợ/thêm tính năng:
 
-- Với chỉnh sửa đơn giản (sửa văn bản trên web, sửa một số tính năng đã có, ...) hoặc lỗi phát sinh lúc vận hành từ phía mình, mình sẽ thực hiện hoặc sửa lỗi mà không lấy thêm chi phí trong vòng 1 năm kể từ lúc bàn giao.
+- Với chỉnh sửa đơn giản (sửa văn bản trên web, sửa một số tính năng đã có, ...) hoặc lỗi phát sinh lúc vận hành, mình sẽ thực hiện hoặc sửa lỗi mà không lấy thêm chi phí trong vòng 1 năm kể từ lúc ứng dụng được triển khai thực sự (không phải thời điểm bàn giao).
 
 - Với việc thêm tính năng (xác thực người dùng, thanh toán, ...), mình sẽ lấy phí theo thoả thuận. Nếu khách thấy không hợp lý, mình sẽ bàn giao toàn bộ source code trên Github cho khách thuê bên thứ 3 thêm tính năng và hỗ trợ support cho bên thứ 3 qua email.
 
